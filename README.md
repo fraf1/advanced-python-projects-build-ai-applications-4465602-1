@@ -1,8 +1,6 @@
 # Advanced Python Projects: Build AI Applications
 This is the repository for the LinkedIn Learning course `Advanced Python Projects: Build AI Applications`. The full course is available from [LinkedIn Learning][lil-course-url].
 
-Test.
-
 ![lil-thumbnail-url]
 
 Python is a versatile programming language that is widely used in a variety of industries, including data science, artificial intelligence, web development, and more. As the demand for Python developers continues to grow, having a portfolio of Python projects can significantly increase your job prospects and marketability. This course with instructor Priya Mohan is designed to equip you with the skills and knowledge needed to create a portfolio of Python-based applications and tools that can be showcased to employers or used to bring your own ideas to life. It’s ideal for anyone looking to enhance their Python knowledge by completing hands-on projects or for those seeking to create interesting solutions from scratch for fun.
