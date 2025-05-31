@@ -1,4 +1,4 @@
-
+from textblob import TextBlob
 
 # Define intents and their corresponding responses based on keywords
 
