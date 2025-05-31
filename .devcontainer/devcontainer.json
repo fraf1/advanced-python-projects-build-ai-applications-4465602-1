@@ -24,4 +24,5 @@
   // Pull all branches
   "postAttachCommand": "git pull --all"
 }
+{ "name": "My Dev Container", "settings": { "locale": "en" }, "extensions": [ "ms-vscode.vscode-loc-en" ] } 
 // DevContainer Reference: https://code.visualstudio.com/docs/remote/devcontainerjson-reference
